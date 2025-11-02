@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.venv/
+env/
+venv/
+*.env
+
+# Large/raw data (keep a small README there)
+data/raw/*
+!data/raw/README.md
+
+reports/figures/*

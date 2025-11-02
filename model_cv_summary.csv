@@ -1,0 +1,5 @@
+model,accuracy_mean,accuracy_sd,macro_f1_mean,macro_f1_sd,n_splits,random_state
+Model3_RandomForest,0.8986,0.0045,0.8875,0.0048,3,123
+Model2_Bagging,0.8949,0.0032,0.8837,0.0035,3,123
+Model4_Boosting,0.866,0.009,0.8509,0.0101,3,123
+Model1_DecisionTree,0.8593,0.0013,0.8443,0.001,3,123
